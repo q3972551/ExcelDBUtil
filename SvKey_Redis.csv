@@ -1,0 +1,3 @@
+RoleCount,GameTimes,PriceWin,RankList,RoleInfo,PrimaryData,ShareList,RadioList,MailList,MailCount,ChallengeTimes
+string,string,string,string,string,string,string,string,string,string,string
+roleCount,gameTimes,priceWin,ranklist,info_role,primary_data,share_list,radio_list,mail_list,mailCount,challengeTimes
